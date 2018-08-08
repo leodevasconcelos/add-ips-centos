@@ -1,14 +1,12 @@
 # Add IPs CentOS
-------------
+Script to add IPs in VPS OVH with CentOS 
 # Requeriments
 * Git
-------------
 # Install Git
 ```
 sudo yum update
 sudo yum install -y git
 ```
-------------
 # Usage
 ```
 cd /tmp
